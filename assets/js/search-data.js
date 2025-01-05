@@ -157,6 +157,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-personal-finance-tracker",
+          title: 'Personal Finance Tracker',
+          description: "A web-based application to help users manage their personal finances by tracking income, expenses, and savings goals",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project1/";
             },},{
         id: 'social-email',
         title: 'email',
