@@ -167,6 +167,11 @@ ninja.data = [{
           description: "An IoT project to automate and control home devices, such as lights, thermostats, and security systems, using a smartphone app",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project2/";
+            },},{id: "projects-health-and-fitness-tracker",
+          title: 'Health and Fitness Tracker',
+          description: "A mobile app to monitor and analyze users&#39; health and fitness activities, including workouts, nutrition, and sleep patterns",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project3/";
             },},{
         id: 'social-email',
         title: 'email',
