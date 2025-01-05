@@ -162,6 +162,11 @@ ninja.data = [{
           description: "A web-based application to help users manage their personal finances by tracking income, expenses, and savings goals",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project1/";
+            },},{id: "projects-smart-home-automation-system",
+          title: 'Smart Home Automation System',
+          description: "An IoT project to automate and control home devices, such as lights, thermostats, and security systems, using a smartphone app",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project2/";
             },},{
         id: 'social-email',
         title: 'email',
